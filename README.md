@@ -1,5 +1,5 @@
 # verb-helper-bower
 
-> Verb helper for Bower. List dependencies.
+> [Verb](https://github.com/verbose/verb) helper for [Bower](http://bower.io/). List dependencies.
 
 
